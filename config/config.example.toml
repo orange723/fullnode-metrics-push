@@ -1,0 +1,21 @@
+[server]
+host = "127.0.0.1"
+port = 9090
+
+[[rpc]]
+chain = "eth"
+list = [
+    "https://ethereum-rpc.publicnode.com",
+]
+
+[[rpc]]
+chain = "bnb"
+list = [
+    "https://bsc-rpc.publicnode.com",
+]
+
+[[rpc]]
+chain = "base"
+list = [
+    "https://base-rpc.publicnode.com",
+]

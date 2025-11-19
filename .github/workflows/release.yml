@@ -62,4 +62,4 @@ jobs:
           draft: false
           prerelease: false
           files: |
-            ./fullnode-metrics-push
+            fullnode-metrics-push
